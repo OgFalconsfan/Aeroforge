@@ -1,0 +1,15 @@
+AeroForge/
+│
+├── README.md
+├── PROJECT_OVERVIEW.md
+├── LICENSE
+│
+├── docs/
+│   ├── equations/
+│   ├── engineering-notes/
+│   ├── assumptions.md
+│   ├── limitations.md
+│   └── development-log.md
+│
+├── src/
+└── tests/
