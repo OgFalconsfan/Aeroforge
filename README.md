@@ -1,14 +1,8 @@
 # Aeroforge
-│
-├── README.md
-├── PROJECT_OVERVIEW.md
-├── LICENSE
-│
-├── docs/
-│   ├── equations.md
-│   ├── assumptions.md
-│   ├── limitations.md
-│   └── development-log.md
-│
-└── src/
-initial project set up and documentation
+main
+ │
+ ├── Initial project setup
+ ├── Add PROJECT_OVERVIEW.md
+ ├── Add README
+ ├── Add docs structure
+ └── Add engineering notes
