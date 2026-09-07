@@ -1,2 +1,2 @@
 # Aeroforge
-website to sum up and calculate different measures in planes and gliders
+AeroForge is an independent engineering project designed to provide students and aspiring aerospace engineers with an accessible platform for exploring the relationships between aircraft geometry, atmospheric conditions, and flight performance.
